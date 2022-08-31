@@ -317,5 +317,3 @@ This project was made using technology from the following sources:
    [brcrypt](https://pypi.org/project/bcrypt/) and
    [pycryptodome](https://pycryptodome.readthedocs.io/en/latest/src/introduction.html)
    
-![](zero_state.png)
-![](aftervoting.png)
